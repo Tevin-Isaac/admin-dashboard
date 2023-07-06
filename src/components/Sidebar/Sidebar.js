@@ -47,7 +47,7 @@ function Sidebar(props) {
           href=""
           className="simple-text logo-normal"
         >
-          Piyotero
+          Dashboard
         </a>
       
       </div>
